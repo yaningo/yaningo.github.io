@@ -1,5 +1,5 @@
-baseURL = "https://www.example.com/"
-title = "Shell"
+baseURL = "https://yaningo.github.io/"
+title = "Yann D. it me"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -17,7 +17,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Additions stop here
     
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "Yann D. Oui oui"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
