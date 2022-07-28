@@ -89,7 +89,6 @@ ignoreErrors = ["error-remote-getjson"]
     ["Stack Overflow", "http://stackoverflow.com/users/7221104/"],
     ["Medium", "https://medium.com/@yaningo/"],
     ["LinkedIn", "https://linkedin.com/in/yndmgo/"],
-    ["CV", "https://yaningo.github.io/resume/"],
   ]
 
 [module]
