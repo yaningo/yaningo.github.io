@@ -65,7 +65,8 @@ ignoreErrors = ["error-remote-getjson"]
   description = """
   Hello, I'm Yann!
   
-  Tech Support Enthusiast / Curious Mind 
+  Tech Support Enthusiast / Curious Mind
+  Musician / Translator
  
   Learning. Helping. Reading. Writing.
   Music. Scripting. Philosophy. Languages.
@@ -85,10 +86,11 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["GitHub", "https://github.com/yaningo/"],
-    ["GitLab", "https://gitlab.com/yaningo/"],
     ["Stack Overflow", "http://stackoverflow.com/users/7221104/"],
     ["Medium", "https://medium.com/@yaningo/"],
     ["LinkedIn", "https://linkedin.com/in/yndmgo/"],
+    ["GitLab", "https://gitlab.com/yaningo/"],
+    ["CV (pdf)", "cv_yann.pdf"],
   ]
 
 [module]
