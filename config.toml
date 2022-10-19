@@ -9,7 +9,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 # Additions start here
   [Params.Navbar]
-  use = true
+  use = false
   
   [Params.Extensions]
   use = true
@@ -65,7 +65,7 @@ ignoreErrors = ["error-remote-getjson"]
   description = """
   Hello, I'm Yann!
   
-  Tech Support Enthusiast / Curious Mind
+  Tech Support Enthusiast / Curious Mind /
   Musician / Translator
  
   Learning. Helping. Reading. Writing.
