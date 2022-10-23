@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["Medium", "https://medium.com/@yaningo/"],
     ["LinkedIn", "https://linkedin.com/in/yndmgo/"],
     ["GitLab", "https://gitlab.com/yaningo/"],
-    ["CV (pdf)", "cv_yann.pdf"],
+    ["CV", "cv_yann.pdf"],
   ]
 
 [module]
